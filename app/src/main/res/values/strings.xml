@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Lemonade App</string>
+
+    <string name="lemon_tree_text">Ketuk pohon lemon untuk memetik lemon</string>
+    <string name="lemon_squeeze_text">Ketuk lemon beberapa kali untuk memerasnya</string>
+    <string name="lemon_drink_text">Ketuk es lemon Anda untuk meminumnya</string>
+    <string name="lemon_restart_text">Ketuk gelas kosong untuk memulai kembali</string>
+
+    <string name="lemon_tree_desc">Pohon lemon</string>
+    <string name="lemon_squeeze_desc">Lemon kuning</string>
+    <string name="lemon_drink_desc">Segelas es lemon segar</string>
+    <string name="lemon_restart_desc">Gelas kosong</string>
+</resources>
